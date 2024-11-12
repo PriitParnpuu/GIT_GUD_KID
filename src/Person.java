@@ -9,6 +9,5 @@ public class Person {
 
         System.out.println(name);
         System.out.println(age);
-
     }
 }
