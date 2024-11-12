@@ -2,10 +2,9 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-
-        System.out.println("Hello universe!");
-        String message = "Welcome to the universe";
-        System.out.println(message);
+        System.out.println("Hello people!");
+        String text = "New world";
+        System.out.println(text);
 
         int number = 10;
         System.out.println(number);
